@@ -46,11 +46,6 @@ Output:
 ### Testing 
 
 The tests for this project are in `test_module.py`. I imported the test from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-## Appendix
-
-Any additional information goes here
-
   
 ## Authors
 
